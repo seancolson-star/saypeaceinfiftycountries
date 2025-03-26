@@ -1,0 +1,88 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-light33:before {
+	content: "\e000";
+}
+.flaticon-arrow395:before {
+	content: "\e001";
+}
+.flaticon-arrow408:before {
+	content: "\e002";
+}
+.flaticon-bottom4:before {
+	content: "\e003";
+}
+.flaticon-car95:before {
+	content: "\e004";
+}
+.flaticon-correct7:before {
+	content: "\e005";
+}
+.flaticon-cross37:before {
+	content: "\e006";
+}
+.flaticon-edit45:before {
+	content: "\e007";
+}
+.flaticon-favorite21:before {
+	content: "\e008";
+}
+.flaticon-favourites7:before {
+	content: "\e009";
+}
+.flaticon-key162:before {
+	content: "\e00a";
+}
+.flaticon-list26:before {
+	content: "\e00b";
+}
+.flaticon-logout20:before {
+	content: "\e00c";
+}
+.flaticon-minus104:before {
+	content: "\e00d";
+}
+.flaticon-move13:before {
+	content: "\e00e";
+}
+.flaticon-next15:before {
+	content: "\e00f";
+}
+.flaticon-plus79:before {
+	content: "\e010";
+}
+.flaticon-shower5:before {
+	content: "\e011";
+}
+.flaticon-bust:before {
+	content: "\e012";
+}
+.flaticon-person1:before {
+	content: "\e013";
+}
+.flaticon-display6:before {
+	content: "\e014";
+}
+.flaticon-trash29:before {
+	content: "\e015";
+}
+.flaticon-verify5:before {
+	content: "\e016";
+}
+.flaticon-zoom22:before {
+	content: "\e017";
+}

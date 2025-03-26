@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.saypeaceinfiftycountries.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.saypeaceinfiftycountries.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_6a5292b230cf46e68d87a09a3bfb3968	689457327ada6ea16683262c38bb8d7b%7C%7C1743186988%7C%7C1743183388%7C%7C1e41c19f4d141d73864e7912e3186f1c
+www.saypeaceinfiftycountries.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	1eb50583fb403495b9551d1aa4b65c2e
+

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:33:16	69/69	---M-Z	200	added ('OK')	text/plain	date:Wed,%2026%20Mar%202025%2018:33:15%20GMT	https://saypeaceinfiftycountries.com/robots.txt		(from )
+14:33:16	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2026%20Mar%202025%2018:33:15%20GMT	https://saypeaceinfiftycountries.com/	/Users/kathryncartlidge/Desktop/mywebsite/saypeaceinfiftycountries.com/index.html	(from )

@@ -1,0 +1,148 @@
+HTTrack3.49-2 launched on Wed, 26 Mar 2025 14:35:57 at https://www.saypeaceinfiftycountries.com
+(httrack https://www.saypeaceinfiftycountries.com -O /Users/kathryncartlidge/Desktop/mywebsite )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:36:45	Error: 	"Method Not Allowed" (405) at link https://www.saypeaceinfiftycountries.com/xmlrpc.php (from https://www.saypeaceinfiftycountries.com/)
+14:36:45	Error: 	"Bad Request" (400) at link https://www.saypeaceinfiftycountries.com/wp-admin/admin-ajax.php (from https://www.saypeaceinfiftycountries.com/)
+14:37:52	Warning: 	Found for https://www.saypeaceinfiftycountries.com/?add-to-cart=2196
+14:37:52	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?add-to-cart=2196 to https://www.saypeaceinfiftycountries.com/cart/
+14:38:12	Warning: 	Found for https://www.saypeaceinfiftycountries.com/?add-to-cart=2160
+14:38:12	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?add-to-cart=2160 to https://www.saypeaceinfiftycountries.com/cart/
+14:38:22	Warning: 	Found for https://www.saypeaceinfiftycountries.com/?add-to-cart=2210
+14:38:22	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?add-to-cart=2210 to https://www.saypeaceinfiftycountries.com/cart/
+14:38:36	Warning: 	Found for https://www.saypeaceinfiftycountries.com/?add-to-cart=2214
+14:38:36	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?add-to-cart=2214 to https://www.saypeaceinfiftycountries.com/cart/
+14:38:37	Error: 	"Not Found" (404) at link https://www.saypeaceinfiftycountries.com/wp-content/themes/brown-theme/css/owl.video.play.png (from https://www.saypeaceinfiftycountries.com/wp-content/themes/brown-theme/css/foundation.css?ver=5.2.17)
+14:38:37	Error: 	"Not Found" (404) at link https://www.saypeaceinfiftycountries.com/wp-content/themes/brown-theme/image/loader.gif (from https://www.saypeaceinfiftycountries.com/wp-content/themes/brown-theme/css/foundation.css?ver=5.2.17)
+14:38:37	Error: 	"Not Found" (404) at link https://www.saypeaceinfiftycountries.com/wp-content/themes/brown-theme/image/icons.png (from https://www.saypeaceinfiftycountries.com/wp-content/themes/brown-theme/css/foundation.css?ver=5.2.17)
+14:38:37	Warning: 	Moved Permanently for www.saypeaceinfiftycountries.com/?p=2066
+14:38:37	Warning: 	File has moved from www.saypeaceinfiftycountries.com/?p=2066 to http://www.saypeaceinfiftycountries.com/books/
+14:38:37	Warning: 	Found for www.saypeaceinfiftycountries.com/books/?add-to-cart=2196
+14:38:37	Warning: 	File has moved from www.saypeaceinfiftycountries.com/books/?add-to-cart=2196 to http://www.saypeaceinfiftycountries.com/cart/
+14:38:37	Warning: 	Found for www.saypeaceinfiftycountries.com/books/?add-to-cart=2160
+14:38:37	Warning: 	File has moved from www.saypeaceinfiftycountries.com/books/?add-to-cart=2160 to http://www.saypeaceinfiftycountries.com/cart/
+14:38:37	Warning: 	Found for www.saypeaceinfiftycountries.com/books/?add-to-cart=2210
+14:38:37	Warning: 	File has moved from www.saypeaceinfiftycountries.com/books/?add-to-cart=2210 to http://www.saypeaceinfiftycountries.com/cart/
+14:38:37	Warning: 	Found for www.saypeaceinfiftycountries.com/books/?add-to-cart=2214
+14:38:37	Warning: 	File has moved from www.saypeaceinfiftycountries.com/books/?add-to-cart=2214 to http://www.saypeaceinfiftycountries.com/cart/
+14:39:02	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2196
+14:39:02	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2196 to https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-e-pub/
+14:39:05	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-e-pub/?add-to-cart=2210
+14:39:05	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-e-pub/?add-to-cart=2210 to https://www.saypeaceinfiftycountries.com/cart/
+14:39:11	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-e-pub/?add-to-cart=2214
+14:39:11	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-e-pub/?add-to-cart=2214 to https://www.saypeaceinfiftycountries.com/cart/
+14:39:11	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-e-pub/?add-to-cart=2160
+14:39:11	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-e-pub/?add-to-cart=2160 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2160
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2160 to https://www.saypeaceinfiftycountries.com/product/the-book-of-peace/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace/?add-to-cart=2214
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace/?add-to-cart=2214 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace/?add-to-cart=2196
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace/?add-to-cart=2196 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace/?add-to-cart=2210
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace/?add-to-cart=2210 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2210
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2210 to https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-printed/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-printed/?add-to-cart=2214
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-printed/?add-to-cart=2214 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-printed/?add-to-cart=2196
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-printed/?add-to-cart=2196 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-printed/?add-to-cart=2160
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-printed/?add-to-cart=2160 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2214
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2214 to https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-t-shirt/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-t-shirt/?add-to-cart=2160
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-t-shirt/?add-to-cart=2160 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-t-shirt/?add-to-cart=2196
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-t-shirt/?add-to-cart=2196 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-t-shirt/?add-to-cart=2210
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product/the-book-of-peace-t-shirt/?add-to-cart=2210 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Error: 	"Not Found" (404) at link www.saypeaceinfiftycountries.com/wp-content/plugins/real3d-flipbook/grid.jpg (from www.saypeaceinfiftycountries.com/wp-content/plugins/real3d-flipbook/css/flipbook.style.css?ver=2.40.3)
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2196
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2196 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2160
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2160 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2210
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2210 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Found for https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2214
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/product-category/uncategorized/?add-to-cart=2214 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:37	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2038
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2038 to https://www.saypeaceinfiftycountries.com/about-us/
+14:40:37	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=295
+14:40:37	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=295 to https://www.saypeaceinfiftycountries.com/all-elements/
+14:40:45	Warning: 	Found for https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2160
+14:40:45	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2160 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:45	Warning: 	Found for https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2196
+14:40:45	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2196 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:45	Warning: 	Found for https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2210
+14:40:45	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2210 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:45	Warning: 	Found for https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2214
+14:40:45	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/books/shop/?add-to-cart=2214 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:45	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2068
+14:40:45	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2068 to https://www.saypeaceinfiftycountries.com/books-listing/
+14:40:56	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2170
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2170 to https://www.saypeaceinfiftycountries.com/buy-the-book-of-peace/
+14:40:56	Warning: 	Found for https://www.saypeaceinfiftycountries.com/buy-the-book-of-peace/?add-to-cart=2160
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/buy-the-book-of-peace/?add-to-cart=2160 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:56	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2155
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2155 to https://www.saypeaceinfiftycountries.com/cart/
+14:40:56	Warning: 	Found for https://www.saypeaceinfiftycountries.com/cart/?remove_item=25db67c5657914454081c6a18e93d6dd&_wpnonce=3df38db335
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/cart/?remove_item=25db67c5657914454081c6a18e93d6dd&_wpnonce=3df38db335 to http://www.saypeaceinfiftycountries.com/cart/?removed_item=1
+14:40:56	Warning: 	Found for https://www.saypeaceinfiftycountries.com/cart/?remove_item=1368ba1ab6ed38bb1f26f36673739d54&_wpnonce=3df38db335
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/cart/?remove_item=1368ba1ab6ed38bb1f26f36673739d54&_wpnonce=3df38db335 to http://www.saypeaceinfiftycountries.com/cart/?removed_item=1
+14:40:56	Warning: 	Found for https://www.saypeaceinfiftycountries.com/cart/?remove_item=f3d9de86462c28781cbe5c47ef22c3e5&_wpnonce=3df38db335
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/cart/?remove_item=f3d9de86462c28781cbe5c47ef22c3e5&_wpnonce=3df38db335 to http://www.saypeaceinfiftycountries.com/cart/?removed_item=1
+14:40:56	Warning: 	Found for https://www.saypeaceinfiftycountries.com/cart/?remove_item=1819932ff5cf474f4f19e7c7024640c2&_wpnonce=3df38db335
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/cart/?remove_item=1819932ff5cf474f4f19e7c7024640c2&_wpnonce=3df38db335 to http://www.saypeaceinfiftycountries.com/cart/?removed_item=1
+14:40:56	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2104
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2104 to https://www.saypeaceinfiftycountries.com/chapters-2/
+14:40:56	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2156
+14:40:56	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2156 to https://www.saypeaceinfiftycountries.com/checkout/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2085
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2085 to https://www.saypeaceinfiftycountries.com/faqs/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2091
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2091 to https://www.saypeaceinfiftycountries.com/full-width/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1870
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1870 to https://www.saypeaceinfiftycountries.com/home-multi-page-2/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2157
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2157 to https://www.saypeaceinfiftycountries.com/my-account/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2093
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2093 to https://www.saypeaceinfiftycountries.com/sidebar-left/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1858
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1858 to https://www.saypeaceinfiftycountries.com/sidebar-right/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2125
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2125 to https://www.saypeaceinfiftycountries.com/test/
+14:40:57	Error: 	"Not Found" (404) at link https://www.saypeaceinfiftycountries.com/author/feed/ (from https://www.saypeaceinfiftycountries.com/author/)
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=733
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=733 to https://www.saypeaceinfiftycountries.com/author/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=735
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=735 to https://www.saypeaceinfiftycountries.com/contact/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1 to https://www.saypeaceinfiftycountries.com/uncategorized/hello-world/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1803
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1803 to https://www.saypeaceinfiftycountries.com/uncategorized/another-sample-post/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1801
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1801 to https://www.saypeaceinfiftycountries.com/uncategorized/sample-post/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=2107
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=2107 to https://www.saypeaceinfiftycountries.com/book/the-book-of-peace/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1980
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1980 to https://www.saypeaceinfiftycountries.com/book/book-4/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1957
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1957 to https://www.saypeaceinfiftycountries.com/book/book-3/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1918
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1918 to https://www.saypeaceinfiftycountries.com/book/book-2/
+14:40:57	Warning: 	Moved Permanently for https://www.saypeaceinfiftycountries.com/?p=1903
+14:40:57	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/?p=1903 to https://www.saypeaceinfiftycountries.com/book/test/
+14:41:00	Warning: 	Found for https://www.saypeaceinfiftycountries.com/cart/?undo_item=25db67c5657914454081c6a18e93d6dd&_wpnonce=3df38db335
+14:41:00	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/cart/?undo_item=25db67c5657914454081c6a18e93d6dd&_wpnonce=3df38db335 to http://www.saypeaceinfiftycountries.com/my-account/lost-password/
+14:41:00	Warning: 	Found for https://www.saypeaceinfiftycountries.com/cart/?undo_item=1368ba1ab6ed38bb1f26f36673739d54&_wpnonce=3df38db335
+14:41:00	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/cart/?undo_item=1368ba1ab6ed38bb1f26f36673739d54&_wpnonce=3df38db335 to http://www.saypeaceinfiftycountries.com/my-account/lost-password/
+14:41:00	Warning: 	Found for https://www.saypeaceinfiftycountries.com/cart/?undo_item=1819932ff5cf474f4f19e7c7024640c2&_wpnonce=3df38db335
+14:41:00	Warning: 	File has moved from https://www.saypeaceinfiftycountries.com/cart/?undo_item=1819932ff5cf474f4f19e7c7024640c2&_wpnonce=3df38db335 to http://www.saypeaceinfiftycountries.com/my-account/lost-password/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 3 seconds : 324 links scanned, 250 files written (18506924 bytes overall), 252 files updated [16588037 bytes received at 54745 bytes/sec], 2882578 bytes transferred using HTTP compression in 145 files, ratio 25%, 4.4 requests per connection
+(7 errors, 130 warnings, 0 messages)
